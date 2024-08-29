@@ -1,0 +1,3 @@
+/home/ok001/program/CProgram/opencv_first/build/CMakeFiles/rebuild_cache.dir
+/home/ok001/program/CProgram/opencv_first/build/CMakeFiles/edit_cache.dir
+/home/ok001/program/CProgram/opencv_first/build/CMakeFiles/opencv_test_example.dir
